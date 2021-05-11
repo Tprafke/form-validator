@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple form built using JavaScript, HTML, and CSS. Uses both HTML and Javascript validation.
+A simple form built using JavaScript, HTML, and CSS. Uses both HTML and JavaScript validation.
 
 ## Languages & Technologies
 
